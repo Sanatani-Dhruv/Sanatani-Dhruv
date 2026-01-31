@@ -1,3 +1,5 @@
+![Banner](./github-header-banner.png)
+
 ## 👋 Hey! I'm Dhruv Solanki 
 > or I say Sanatani Dhruv
 
