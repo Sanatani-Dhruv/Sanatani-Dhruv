@@ -12,5 +12,5 @@ who is trying to specialise in Full Stack Web Development....
 ### Skills
 
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github,vim"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github,vim,linux,mint,mysql,mariadb,ubuntu&perline=5"/>
 </p>
