@@ -8,3 +8,11 @@ You want to know about me, so..
 
 I am Dhruv Solanki, a B-TECH CSE Student at Uka Tarsadia University,
 who is trying to specialise in Full Stack Web Development....
+
+### Skills
+
+<p align=center>
+  <a href=https://skillicons.dev>
+    <img src=https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim />
+  </a>
+</p>
