@@ -1,0 +1,24 @@
+{
+  "name": "sanatani-dhruv",
+  "version": "1.0.0",
+  "description": "![Banner](./github-header-banner.png)",
+  "homepage": "https://github.com/Sanatani-Dhruv/Sanatani-Dhruv#readme",
+  "bugs": {
+    "url": "https://github.com/Sanatani-Dhruv/Sanatani-Dhruv/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanatani-Dhruv/Sanatani-Dhruv.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "view-readme": "./node_modules/.bin/markdown-viewer --file=readme.md"
+  },
+  "devDependencies": {
+    "markdown-viewer": "^1.0.1"
+  }
+}
