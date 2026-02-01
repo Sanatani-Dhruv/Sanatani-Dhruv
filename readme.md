@@ -1,6 +1,8 @@
 ![Banner](./github-header-banner.png)
 
+<p align="center">
 <img src="https://img.shields.io/badge/github-repo-blue?logo=github">
+</p>
 
 ## 👋 Hey! I'm Dhruv Solanki 
 > or I say Sanatani Dhruv
