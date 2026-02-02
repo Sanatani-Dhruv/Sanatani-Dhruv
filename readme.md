@@ -1,12 +1,14 @@
 ![Banner](./github-header-banner.png)
+---
 
-## About Me
+# About Me
+---
 
 I am Dhruv Solanki, a B-TECH CSE Student at Uka Tarsadia University,
 who is trying to specialise in Full Stack Web Development....
 
-## Skills
-
+# Skills
+---
 <!-- <p align=center> -->
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github,vim,linux,mint,mysql,ubuntu&perline=5"/> -->
 <!-- </p> -->
@@ -24,9 +26,8 @@ who is trying to specialise in Full Stack Web Development....
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-## Contact
-
+# Contact
+---
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-solanki-36342a358/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanatani-Dhruv/)
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvdds125@gmail.com)
