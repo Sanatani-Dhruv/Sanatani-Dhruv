@@ -4,7 +4,7 @@
 # About Me
 ---
 
-I am Dhruv Solanki, a B-TECH CSE Student at Uka Tarsadia University,
+I am Dhruv Solanki, a B-TECH CSE Student,
 who is trying to specialise in Full Stack Web Development....
 
 # Stack
